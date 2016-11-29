@@ -9,3 +9,4 @@ Repository Test to automatically build stuff
 - Version 1.0.7
 - Version 1.0.8
 - Version 1.0.9
+- Version 1.1.0
